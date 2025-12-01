@@ -1,4 +1,4 @@
-# Hi there, I'm [Jana] 💕
+# Hi there, I'm Jana! 💕
 
 <div align="center">
   
