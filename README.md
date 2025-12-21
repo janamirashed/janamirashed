@@ -33,10 +33,14 @@ I'm a passionate developer who loves building things and solving problems. When 
 ## GitHub Stats
 
 <div align="center">
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=janamirashed&layout=compact&langs_count=6&exclude_repo=.dotfiles&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=janamirashed&layout=compact&langs_count=6&exclude_repo=.dotfiles&hide_border=true">
+    <img alt="stats graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=janamirashed&layout=compact&langs_count=6&exclude_repo=.dotfiles&hide_border=true" height="150">
+  </picture><br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janamirashed&theme=tokyonight&hide_border=true&background=1a1b27&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-
 </div>
 
 ## Contribution Graph
