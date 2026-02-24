@@ -26,7 +26,7 @@ I'm a passionate developer who loves building things and solving problems. When 
 <img src="https://skillicons.dev/icons?i=spring,angular&perline=10" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,vscode,idea&perline=10" />
+<img src="https://skillicons.dev/icons?i=github,git,vscode,idea,webstorm,postman,linux&perline=10" />
 
 
 ## GitHub Stats
