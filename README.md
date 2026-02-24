@@ -10,7 +10,6 @@
 
 I'm a passionate developer who loves building things and solving problems. When I'm not coding, you can find me exploring new technologies, contributing to open source, or sharing knowledge with the community.
 
-- 🔭 I'm currently working on **UNIverse**
 - 🌱 I'm currently learning **Spring Boot framework & Angular for full-stack web development**
 - ⚡ Fun fact: **I'm a styling freak**
 
