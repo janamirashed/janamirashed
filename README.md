@@ -7,7 +7,26 @@ Hiii, I'm Jana!! I'm currently diving into AI and machine learning and genuinely
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,typescript,javascript,html,css,spring,angular,git,github,vscode,idea,ubuntu,docker,postman" />
+<table>
+  <tr align="center" valign="top">
+    <td colspan="2">
+      <h3>Programming Languages</h3>
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css" />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+    </td>
+  </tr>
+  <tr align="center" valign="top">
+    <td width="50%">
+      <h3>Frameworks & Libraries</h3>
+      <img src="https://skillicons.dev/icons?i=angular,spring" />
+    </td>
+    <td width="50%">
+      <h3>Tools & Platforms</h3>
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,idea,git,github" />
+      <img src="https://skillicons.dev/icons?i=docker,maven,postman" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -56,10 +75,4 @@ Hiii, I'm Jana!! I'm currently diving into AI and machine learning and genuinely
 <a href="https://www.linkedin.com/in/jana-rashed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:janarashed23010359@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://janamirashed.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" width="100%"/>
 </div>
