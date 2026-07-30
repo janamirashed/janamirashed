@@ -1,12 +1,3 @@
-
-<div align="center">
-<a href="https://www.linkedin.com/in/jana-rashed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:janarashed23010359@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://janamirashed.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-</div>
-
----
-
 ## About
 
 Hiii, I'm Jana!! I'm currently diving into AI and machine learning and genuinely excited about where that path goes. I love finding creative solutions and thinking beyond the obvious, the best ideas usually come from questioning what's already been done. Design quality matters to me too, and I'm drawn to projects where the technical depth and the creative thinking feed into each other.
@@ -55,6 +46,16 @@ Hiii, I'm Jana!! I'm currently diving into AI and machine learning and genuinely
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=janamirashed&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+<a href="https://www.linkedin.com/in/jana-rashed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:janarashed23010359@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://janamirashed.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 ---
