@@ -12,7 +12,7 @@ Hiii, I'm Jana!! I'm currently diving into AI and machine learning and genuinely
     <td colspan="2">
       <h3>Programming Languages</h3>
       <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css" />
-      <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,bash" />
     </td>
   </tr>
   <tr align="center" valign="top">
@@ -22,8 +22,8 @@ Hiii, I'm Jana!! I'm currently diving into AI and machine learning and genuinely
     </td>
     <td width="50%">
       <h3>Tools & Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,idea,git,github" />
-      <img src="https://skillicons.dev/icons?i=docker,maven,postman" />
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,git,github" />
+      <img src="https://skillicons.dev/icons?i=maven,postman,docker" />
     </td>
   </tr>
 </table>
