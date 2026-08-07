@@ -48,14 +48,12 @@ Hiii, I'm Jana!! I'm currently diving into AI and machine learning and genuinely
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=janamirashed&layout=compact&langs_count=6&exclude_repo=.dotfiles&theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=janamirashed&layout=compact&langs_count=6&exclude_repo=.dotfiles&hide_border=true">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=janamirashed&layout=compact&langs_count=6&exclude_repo=.dotfiles&hide_border=true" height="150">
-  </picture>
-  <br/>
+  <a href="https://github.com/ysfw">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=janamirashed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=a855f7&text_color=ffffff&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janamirashed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=ffffff&langs_count=8"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janamirashed&theme=tokyonight&hide_border=true&background=1a1b27&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janamirashed&theme=tokyonight&hide_border=true&background=0D1117&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7)
 
 </div>
 
