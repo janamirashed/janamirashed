@@ -18,7 +18,7 @@ Hiii, I'm Jana!! I'm currently diving into AI and machine learning and genuinely
   <tr align="center" valign="top">
     <td width="50%">
       <h3>Frameworks & Libraries</h3>
-      <img src="https://skillicons.dev/icons?i=angular,spring,sklearn,tensorflow" />
+      <img src="https://skillicons.dev/icons?i=angular,spring,sklearn,tensorflow,opencv" />
     </td>
     <td width="50%">
       <h3>Tools & Platforms</h3>
