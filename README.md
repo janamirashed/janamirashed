@@ -18,12 +18,12 @@ Hiii, I'm Jana!! I'm currently diving into AI and machine learning and genuinely
   <tr align="center" valign="top">
     <td width="50%">
       <h3>Frameworks & Libraries</h3>
-      <img src="https://skillicons.dev/icons?i=spring,angular,react" />
+      <img src="https://skillicons.dev/icons?i=spring,angular,react" /><br />
       <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv" />
     </td>
     <td width="50%">
       <h3>Tools & Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=linux,vscode,git,github" />
+      <img src="https://skillicons.dev/icons?i=linux,vscode,git,github" /><br />
       <img src="https://skillicons.dev/icons?i=maven,postman,docker" />
     </td>
   </tr>
@@ -36,6 +36,7 @@ Hiii, I'm Jana!! I'm currently diving into AI and machine learning and genuinely
 
 | Repository | Description | Stack |
 |------------|-------------|-------|
+| [gesture-obj-vision](https://github.com/janamirashed/gesture-obj-vision) | Real-time computer vision app combining custom hand gesture recognition (MediaPipe + Keras) with YOLO11 object detection | Python · TensorFlow · MediaPipe · YOLO11 · FastAPI · React |
 | [cs-assignment-tracker](https://github.com/janamirashed/cs-assignment-tracker) | Assignment deadline manager actively used by CSED students — personal project, live on GitHub Pages | Angular · Spring Boot · [Live ↗](https://janamirashed.github.io/cs-assignment-tracker/) |
 | [smart-study-advisor](https://github.com/janamirashed/smart-study-advisor) | AI-powered study advisor using Prolog for knowledge-based reasoning and Gemini API for recommendations | Prolog · JS · Gemini |
 | [hide-and-seek](https://github.com/janamirashed/hide-and-seek) | Zero-sum game solver that computes Nash equilibrium mixed strategies via a custom two-phase Simplex implementation | Java · Spring Boot · Angular |
@@ -49,7 +50,7 @@ Hiii, I'm Jana!! I'm currently diving into AI and machine learning and genuinely
 
 <div align="center">
 
-  <a href="https://github.com/ysfw">
+  <a href="https://github.com/janamirashed">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=janamirashed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=a855f7&text_color=ffffff&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janamirashed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=ffffff&langs_count=8"/>
 </a>
