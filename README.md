@@ -16,17 +16,23 @@ Hiii, I'm Jana!! I'm currently diving into AI and machine learning and genuinely
     </td>
   </tr>
   <tr align="center" valign="top">
-    <td width="50%">
-      <h3>Frameworks & Libraries</h3>
-      <img src="https://skillicons.dev/icons?i=spring,angular,react" /><br />
-      <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv" />
-    </td>
-    <td width="50%">
-      <h3>Tools & Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=linux,vscode,git,github" /><br />
-      <img src="https://skillicons.dev/icons?i=maven,postman,docker" />
-    </td>
-  </tr>
+  <td width="50%">
+    <h3>Frameworks & Libraries</h3>
+    <img src="https://skillicons.dev/icons?i=spring,angular,react" /><br />
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv" />
+  </td>
+  <td width="50%">
+    <h3>Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github" /><br />
+    <img src="https://skillicons.dev/icons?i=maven,postman,docker" />
+  </td>
+</tr>
+<tr align="center" valign="top">
+  <td colspan="2">
+    <h3>Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  </td>
+</tr>
 </table>
 </div>
 
